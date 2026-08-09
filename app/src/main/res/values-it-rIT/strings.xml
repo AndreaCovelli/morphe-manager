@@ -2,7 +2,7 @@
 <resources>
     <!-- Home Screen -->
     <string name="home_other_apps">Altre app</string>
-    <string name="home_not_patched_yet">Non ancora patchato</string>
+    <string name="home_not_patched_yet">Non ancora modificato</string>
     <string name="home_no_patches_available">
 Nessuna patch disponibile</string>
     <string name="home_app_hide_title">Nascondere questa app?</string>
